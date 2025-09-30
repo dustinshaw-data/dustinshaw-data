@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Dustin 👋
 
-<!--
-**dustinshaw-data/dustinshaw-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact Center Workforce Admin at The Home Depot transitioning into Data Analytics and Data Engineering.
 
-Here are some ideas to get you started:
+- 📊 Skilled in SQL, Tableau, Python, and Excel
+- 🧠 Google Data Analytics Certificate holder
+- 🚀 Preparing for Georgia Tech OMSCS (Fall 2027)
+- 🎯 Goal: Data Analyst / Data Engineer at THD corporate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects I'm Building
+- [Call Center Metrics Dashboard](https://github.com/dustinshaw-data/call-center-metrics) — SQL + Tableau to analyze handle time, wait time, and agent performance.
+- [Supply Chain Analytics](https://github.com/dustinshaw-data/supply-chain-analytics) — Data analysis and visualizations for logistics and inventory insights.
+
+## Connect
+[LinkedIn](www.linkedin.com/in/dustin-shaw-42886a11b) | [Email](mailto:dustin.shaw87@yahoo.com)
