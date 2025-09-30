@@ -2,7 +2,7 @@
 
 Contact Center Workforce Admin at The Home Depot transitioning into Data Analytics and Data Engineering.
 
-- 📊 Skilled in SQL, Tableau, and Excel
+- 📊 Skilled in SQL, Tableau and Excel
 - 🧠 Google Data Analytics Certificate holder
 - 🚀 Preparing for Georgia Tech OMSCS (Fall 2027)
 - 🎯 Goal: Data Analyst / Data Engineer at THD corporate
